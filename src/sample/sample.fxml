@@ -86,8 +86,8 @@
         <Label prefHeight="17.0" prefWidth="117.0" text="   Godina studija" GridPane.columnIndex="2" GridPane.rowIndex="6" />
         <Label prefHeight="17.0" prefWidth="119.0" text="  Ciklus studija:" GridPane.columnIndex="2" GridPane.rowIndex="7" />
         <CheckBox fx:id="pripadnost" contentDisplay="RIGHT" mnemonicParsing="false" prefHeight="18.0" prefWidth="235.0" text="Redovan student" GridPane.columnIndex="2" GridPane.columnSpan="2" GridPane.rowIndex="8" />
-        <CheckBox fx:id="pripadnost" contentDisplay="RIGHT" mnemonicParsing="false" prefHeight="18.0" prefWidth="235.0" text="Redovan samofinansirajuci student" GridPane.columnIndex="2" GridPane.columnSpan="2" GridPane.rowIndex="9" />
-        <CheckBox fx:id="pripadnost" contentDisplay="RIGHT" mnemonicParsing="false" prefHeight="18.0" prefWidth="235.0" text="Boracka kategorija" GridPane.columnIndex="2" GridPane.columnSpan="2" GridPane.rowIndex="10" />
+        <CheckBox fx:id="pripadnost1" contentDisplay="RIGHT" mnemonicParsing="false" prefHeight="18.0" prefWidth="235.0" text="Redovan samofinansirajuci student" GridPane.columnIndex="2" GridPane.columnSpan="2" GridPane.rowIndex="9" />
+        <CheckBox fx:id="pripadnost2" contentDisplay="RIGHT" mnemonicParsing="false" prefHeight="18.0" prefWidth="235.0" text="Boracka kategorija" GridPane.columnIndex="2" GridPane.columnSpan="2" GridPane.rowIndex="10" />
         <ComboBox fx:id="smjer" prefHeight="27.0" prefWidth="120.0" GridPane.columnIndex="3" GridPane.rowIndex="5">
             <items>
                 <FXCollections fx:factory="observableArrayList">
